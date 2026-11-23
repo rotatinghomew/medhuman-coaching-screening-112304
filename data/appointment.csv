@@ -1,0 +1,5 @@
+id,student,slot,state,received
+K1,W9R016,Z741,confirmed,2026-11-12T11:00:00+08:00
+K2,W9R024,Z750,requested,2026-11-12T13:00:00+08:00
+K3,W9R021,Z773,confirmed,2026-11-14T08:00:00+08:00
+K4,W9R021,Z783,confirmed,2026-11-14T08:00:00+08:00

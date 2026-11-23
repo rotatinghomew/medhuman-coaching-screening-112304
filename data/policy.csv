@@ -1,0 +1,4 @@
+id,tracks,kind,review_at_day,minimum_short_fraction,full_need_score
+P0,"surgery,general,community",threshold,1,0.10,55
+P1,"surgery,general,community",random_invitation,1,0.20,58
+P2,"surgery,general,community",random_invitation,2,0.25,60

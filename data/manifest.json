@@ -1,0 +1,60 @@
+{
+  "student.csv": [
+    "id",
+    "wave",
+    "track",
+    "rotation_end",
+    "policy"
+  ],
+  "first_score.csv": [
+    "id",
+    "student",
+    "skill",
+    "value",
+    "received",
+    "status",
+    "supersedes"
+  ],
+  "invitation.csv": [
+    "student",
+    "policy",
+    "assigned",
+    "offered_kind",
+    "prob",
+    "completed",
+    "coach",
+    "sent"
+  ],
+  "post_score.csv": [
+    "student",
+    "book",
+    "observed",
+    "received",
+    "value",
+    "status"
+  ],
+  "policy.csv": [
+    "id",
+    "tracks",
+    "kind",
+    "review_at_day",
+    "minimum_short_fraction",
+    "full_need_score"
+  ],
+  "slot.csv": [
+    "id",
+    "coach",
+    "day",
+    "begin",
+    "capacity",
+    "kind",
+    "skills"
+  ],
+  "appointment.csv": [
+    "id",
+    "student",
+    "slot",
+    "state",
+    "received"
+  ]
+}
